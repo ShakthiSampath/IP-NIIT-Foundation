@@ -6,7 +6,7 @@ Industry Practise for Six Months
 
 Following are the broad tasks:
 
-- Use Node.js fs module I should read CSV
+- Use Node.js fs module to read CSV
 
 - Use Readline interface module to parse line by line
 
