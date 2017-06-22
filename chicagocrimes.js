@@ -16,6 +16,7 @@ let newobj = [];
 
 const rl = readline.createInterface({
     input: fs.createReadStream('../Material/chicagocrimes.csv')
+    // input: fs.createReadStream('../Material/chicagocrimes_3.csv')
 });
 
 rl.on('line', (line) => {
