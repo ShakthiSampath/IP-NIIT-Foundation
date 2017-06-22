@@ -1,10 +1,9 @@
 # IP-NIIT-Foundation
 Industry Practise for Six Months
 
-#### _Task - 1_
+###### Download Data from - http://datamill.stackroute.in/csv_files/
 
-
-Following are the broad tasks:
+#### _Task - 1 - Data Munging_
 
 - Use Node.js fs module to read CSV
 
@@ -14,6 +13,9 @@ Following are the broad tasks:
 
 - Write to JSON
 
-- Design and build an Optimal Schema
 
-- Plot graphs based on this Optimal Schema
+#### _Task - 2 - Data Visualization_
+
+- Design and build an _Optimal Schema_ from the above obtained data(.json Format)
+
+- Plot graphs based on this _Optimal Schema_
