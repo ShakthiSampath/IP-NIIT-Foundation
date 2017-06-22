@@ -1,0 +1,29 @@
+======================
+Daily Log of work done
+======================
+
+Date - 19th June,2017
+
+Log :
+    - Brief of the Project Samarthya
+    - Brief of technologies to be used
+    - Assignment - Chicagocrime data
+    - Introduction to Node.js
+
+======================================================================================
+
+Date - 20th June,2017
+
+Log :
+    - Assignment - Chicagocrime data
+    - Learning JavaScript
+
+======================================================================================
+
+Date - 21st June,2017
+
+Log :
+    - Assignment - Chicagocrime data
+    - Parsing data using RegEx
+
+======================================================================================
