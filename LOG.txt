@@ -31,8 +31,17 @@ Log :
 Date - 22nd June,2017
 
 Log :
-    - Assignment - Chicagocrime data
+    - Completed Data Munging Assignment - Chicagocrime 
     - Intro to Node.js
     - Intro to D3.js
 
+======================================================================================
+
+Date - 23rd June,2017
+ 
+Log:
+    - Handling Exceptions and Errors in Node.js
+    - Implementing Exception and Error Handling in Data Munging Assignment
+    - RegEx in node.js
+ 
 ======================================================================================
