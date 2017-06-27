@@ -45,3 +45,12 @@ Log:
     - RegEx in node.js
  
 ======================================================================================
+
+Date - 24th June,2017 to 26th June,2017
+
+Log:
+    - Assignment - 2 - Data Visualization using data from json using D3.js
+    - Completing ES6 - JavaScript
+    - Completing RegEx
+    
+======================================================================================
