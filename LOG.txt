@@ -54,3 +54,22 @@ Log:
     - Completing RegEx
     
 ======================================================================================
+
+Date - 27th June,2017
+
+Log :
+	- D3.js - Reading a file and Scales
+    - Assignment -2 - Data Visualization using json data
+	
+======================================================================================
+
+Date - 28th June,2017
+
+Log :
+
+	- Completion of D3.js 
+	- Completion of Assignment -2 - Data Visualization
+
+=====================================================================================
+
+
