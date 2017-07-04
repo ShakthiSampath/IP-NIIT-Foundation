@@ -1,75 +1,126 @@
-======================
-Daily Log of work done
-======================
-
+                                    ======================
+                                    Daily Log of work done
+                                    ======================
+ 
 Date - 19th June,2017
-
+Time-in - 9:30 am
+Time-out - 6:30 pm      
+ 
 Log :
-    - Brief of the Project Samarthya
-    - Brief of technologies to be used
-    - Assignment - Chicagocrime data
-    - Introduction to Node.js
-
-======================================================================================
-
+	- Brief of the Project Samarthya
+	- Brief of technologies to be used
+	- Assignment - Chicagocrime data
+	- Introduction to Node.js
+ 
+=====================================================================
+ 
 Date - 20th June,2017
-
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
 Log :
-    - Assignment - Chicagocrime data
-    - Learning JavaScript
-
-======================================================================================
-
+	- Assignment - Chicagocrime data
+	- Learning JavaScript
+ 
+=====================================================================
+ 
 Date - 21st June,2017
-
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
 Log :
-    - Assignment - Chicagocrime data
-    - Parsing data using RegEx
-
-======================================================================================
+	- Assignment - Chicagocrime data
+	- Parsing data using RegEx
+ 
+=====================================================================
 
 Date - 22nd June,2017
-
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
 Log :
-    - Completed Data Munging Assignment - Chicagocrime 
-    - Intro to Node.js
-    - Intro to D3.js
-
-======================================================================================
-
+	- Completed Assignment - Chicagocrime - Data Munging
+- Intro to Node.js
+- Intro to D3.js
+ 
+=====================================================================
+ 
 Date - 23rd June,2017
+Time-in - 9:30 am
+Time-out - 6:30 pm   
  
 Log:
-    - Handling Exceptions and Errors in Node.js
-    - Implementing Exception and Error Handling in Data Munging Assignment
-    - RegEx in node.js
+	- Handling Exceptions and Errors in Node.js
+- Implementing Exception and Error Handling in Data Munging Assignment
+	- RegEx in node.js
  
-======================================================================================
-
-Date - 24th June,2017 to 26th June,2017
-
-Log:
-    - Assignment - 2 - Data Visualization using data from json using D3.js
-    - Completing ES6 - JavaScript
-    - Completing RegEx
-    
-======================================================================================
-
+=====================================================================
+HOLIDAYS - 24th June to 26th June (Sat-Sun) and EID Festival (govt. holiday)
+=====================================================================
+ 
 Date - 27th June,2017
-
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
 Log :
 	- D3.js - Reading a file and Scales
-    - Assignment -2 - Data Visualization using json data
+- Assignment -2 - Data Visualization using json data
 	
-======================================================================================
-
+=====================================================================
+ 
 Date - 28th June,2017
-
-Log :
-
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
+Log : 
 	- Completion of D3.js 
 	- Completion of Assignment -2 - Data Visualization
-
-=====================================================================================
-
-
+ 
+=====================================================================
+ 
+Date - 29th June,2017
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
+Log:
+	- JS - Classes and Modules revision
+- Introduction to Angular.io 
+ 
+=====================================================================
+ 
+Date - 30th June,2017
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
+Log :
+- Intro Angular.io
+- Finish QuickStart
+ 
+=====================================================================
+HOLIDAYS - 1st July to 2nd July (Sat-Sun)
+=====================================================================
+ 
+Date - 3rd July,2017
+Time-in - 9:30 am
+Time-out - 6:30 pm   
+ 
+Log :
+- Finish Tutorial 
+- Intro - Assignment - 3 - Movie App
+=====================================================================
+ 
+Date - 4th July,2017
+Time-in - 9:30 am
+Time-out -   
+ 
+Log:
+- Http - module - Angular 
+ 
+Objective :
+- Validation in Hero Module - QuickStart Tutorial
+- Assignment - 3 - Movie App
+ 
+=====================================================================
+ 
+ 
+ 
